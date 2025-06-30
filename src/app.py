@@ -74,7 +74,6 @@ activities = {
             "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
             "max_participants": 12,
             "participants": []
-        }
     }
 }
 
